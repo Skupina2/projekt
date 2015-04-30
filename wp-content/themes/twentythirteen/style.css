@@ -103,7 +103,7 @@ button,
 input,
 select,
 textarea {
-	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	font-family: Century Gothic;
 }
 
 body {
@@ -142,7 +142,7 @@ h4,
 h5,
 h6 {
 	clear: both;
-	font-family: Bitter, Georgia, serif;
+	font-family: Century Gothic;
 	line-height: 1.3;
 }
 
@@ -3222,3 +3222,40 @@ footer.entry-meta {
 		color: #333;
 	}
 }
+.page-id-5 .site-main
+	{
+	left:-300px;
+	}
+body {
+    -moz-transform: scale(0.75, 0.75); 
+    zoom: 0.75; 
+    zoom: 75%; 
+}
+
+
+
+.comments-area
+{
+display:none;
+	
+}
+
+
+.site-info
+{display:none;}
+
+.page-id-12 .site-main
+{
+	left:-500px;
+color:black;
+	}
+
+.page-id-30 .site-main
+{
+	left:-300px;
+	}
+
+.page-id-15 .site-main
+{
+	left:-350px;
+	}
